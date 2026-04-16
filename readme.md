@@ -23,7 +23,7 @@
 ## Содержание репозитория
 
 ### Основной файл
-- **`F-principal_in_practice.ipynb`** - Jupyter notebook с полным набором экспериментов и анализом
+- **`F-principal_in_practice.ipynb`** - Jupyter notebook с экспериментами
 
 ### Зависимости
 - **`requirements.txt`** - Список необходимых библиотек
